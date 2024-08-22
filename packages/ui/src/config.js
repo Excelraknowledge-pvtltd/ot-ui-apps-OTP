@@ -12,4 +12,5 @@ const config = {
   geneticsPortalUrl: window.configGeneticsPortalUrl ?? "https://genetics.opentargets.org",
 };
 
-export default config;
+#export default config;
+export config:https://github.com/Excelraknowledge-pvtltd/ot-ui-apps-OTP/blob/main/apps/platform/public/config.js
